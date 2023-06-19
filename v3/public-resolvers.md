@@ -160,6 +160,22 @@ Warning: This server is incompatible with anonymization.
 sdns://AQcAAAAAAAAAFlsyYTEwOjUwYzA6OjE6ZmZdOjU0NDMgtehE1rg6Pj4SaOtoH76nDePF-mjb1ogUHb8uwGay2volMi5kbnNjcnlwdC51bmZpbHRlcmVkLm5zMS5hZGd1YXJkLmNvbQ
 
 
+## ahadns-blitz
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Globally load-balanced. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/
+
+sdns://AgMAAAAAAAAAACBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxBibGl0ei5haGFkbnMuY29tBC8xOjE
+
+
+## ahadns-blitz-nofilter
+
+A zero logging DNS with support for DNS-over-HTTPS (DoH). No filtering. No persistent logs. DNSSEC. Globally load-balanced. By https://ahadns.com/
+Server statistics can be seen at: https://statistics.ahadns.com/
+
+sdns://AgcAAAAAAAAAACBqUGKw0XjVVvFjsTsbDxlDXQJYgpHMdVid_ubrEcjVwxBibGl0ei5haGFkbnMuY29tAS8
+
+
 ## ahadns-doh-la
 
 A zero logging DNS with support for DNS-over-HTTPS (DoH) & DNS-over-TLS (DoT). Blocks ads, malware, trackers, viruses, ransomware, telemetry and more. No persistent logs. DNSSEC. Hosted in Los Angeles, USA. By https://ahadns.com/
